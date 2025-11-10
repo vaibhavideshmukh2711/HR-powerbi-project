@@ -1,4 +1,4 @@
-# HR-powerbi-project
+# HR-PowerBi-Project
 (Interactive Dashboard creation using MS Excel)
 
 ## Project Objective 
